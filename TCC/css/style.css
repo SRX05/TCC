@@ -1,0 +1,104 @@
+    
+
+     body {    
+    background-color:#CACACA;
+    background-size: cover;
+    padding: 15%;
+   }
+     
+ 
+.main{
+   display: flex;
+   flex-direction:column;
+   gap: 40px;
+   align-items: center;
+   
+}
+   .botao1-button {
+box-sizing: border-box;
+position:flex;
+width: 375px;
+height: 76px;
+left: 800px;
+
+      
+background: rgba(0, 0, 0, 0.5);
+border: 1px solid #181818;
+border-radius: 30px;
+box-sizing: border-box;
+cursor: pointer;
+
+font-family: 'Hind';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 64px;
+
+color: #FFFFFF;
+
+   }
+
+   .botao2-button {
+box-sizing: border-box;
+position:flex;
+width: 375px;
+height: 76px;
+left: 800px;
+
+background: rgba(6, 5, 5, 0.5);
+border: 1px solid #000000;
+border-radius: 30px;
+cursor:pointer;
+
+
+font-family: 'Hind';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 64px;
+
+color: #FFFFFF;
+
+   }
+
+   .botao3-button{
+ box-sizing: border-box;
+position:flex;
+width: 375px;
+height: 76px;
+left: 40%;
+gap:1%;
+
+background: rgba(6, 5, 5, 0.5);
+border: 1px solid #000000;
+border-radius: 30px;
+cursor:pointer;
+
+font-family: 'Hind';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 64px;
+
+color: #FFFFFF;
+}
+
+   .conteiner{
+position:fixed;
+width: 105.7%;
+height: 61px;
+left: 0px;
+top: 0px;
+
+background: #616161;
+   }
+
+
+     
+
+
+      
+
+
+   
+     

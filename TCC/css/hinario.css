@@ -1,0 +1,142 @@
+body{
+   background-color:#CACACA;
+}
+.main{
+   display: flex;
+   flex-direction:column;
+   gap: 0px;
+   align-items: center;
+   
+
+}
+.conteiner{
+   position:fixed;
+   width: 105.7%;
+   height: 61px;
+   left: 0px;
+   top: 0px;
+   
+   background: #616161;
+      }
+
+.orgao{
+   background-image :url("img/teclado.png");
+   background-size: 60%;
+   background-color: rgba(0, 0, 0, 0.5);
+   background-repeat: no-repeat;
+   background-position:center;
+   box-sizing: border-box;
+   position:flex;
+   width: 375px;
+   height: 76px;
+   left: 800px;
+   margin-top:20%;
+
+
+border: 1px solid #000000;
+border-radius: 30px;
+cursor:pointer;
+
+font-family: 'Hind';
+  
+}
+
+.violao{
+   background-image :url("img/violao.png");
+   background-size: 40%;
+   background-color: rgba(0, 0, 0, 0.5);
+   background-repeat: no-repeat;
+   background-position:center;
+   box-sizing: border-box;
+   position:flex;
+   width: 375px;
+   height: 76px;
+   left: 800px;
+   margin-top:20%;
+
+border: 1px solid #000000;
+border-radius: 30px;
+cursor:pointer;
+
+
+}
+
+.do{
+background-image :url("img/do.png");
+   background-size: 15%;
+   background-color: rgba(0, 0, 0, 0.5);
+   background-repeat: no-repeat;
+   background-position:center;
+   box-sizing: border-box;
+   position:flex;
+   width: 375px;
+   height: 76px;
+   left: 800px;
+   margin-top:20%;
+
+border: 1px solid #000000;
+border-radius: 30px;
+cursor:pointer;
+
+
+}
+  
+.mibemol{
+   background-image:url("img/mibenol.png");
+   background-size: 50%;
+   background-color: rgba(0, 0, 0, 0.5);
+   background-repeat: no-repeat;
+   background-position:center;
+   box-sizing: border-box;
+   position:flex;
+   width: 375px;
+   height: 76px;
+   left: 800px;
+   margin-top:20%;
+
+border: 1px solid #000000;
+border-radius: 30px;
+cursor:pointer;
+
+
+}
+.sibemol{
+   background-image:url("img/sibemol.png");
+   background-size: 30%;
+   background-color: rgba(0, 0, 0, 0.5);
+   background-repeat: no-repeat;
+   background-position:center;
+   box-sizing: border-box;
+   position:flex;
+   width: 375px;
+   height: 76px;
+   left: 800px;
+   margin-top:20%;
+
+border: 1px solid #000000;
+border-radius: 30px;
+cursor:pointer;
+
+
+}
+.cordas{
+  background-image:url("img/violino.png");
+   background-size: 70%;
+   background-color: rgba(0, 0, 0, 0.5);
+   background-repeat: no-repeat;
+   background-position:center;
+   box-sizing: border-box;
+   position:flex;
+   width: 375px;
+   height: 76px;
+   left: 800px;
+   margin-top:20%;
+
+border: 1px solid #000000;
+border-radius: 30px;
+cursor:pointer;
+
+
+}
+
+
